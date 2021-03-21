@@ -7,7 +7,6 @@ my_list = list(dict.fromkeys(my_list))
 my_list.sort()
 print(my_list[-2])
 
-
 """
 z = max(arr)
 while max(arr) == z:
